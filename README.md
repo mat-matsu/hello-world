@@ -1,4 +1,4 @@
 # hello-world
 test repository
 
-<h1>Otra prueba</h1>
+Empezando a conocer sobre GitHUB. Bastante intersante por el momento
